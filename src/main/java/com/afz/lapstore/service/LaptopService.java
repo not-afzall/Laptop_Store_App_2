@@ -6,7 +6,7 @@ import com.afz.lapstore.repository.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
-
+// conflict raiser
 @Service
 public class LaptopService {
 
